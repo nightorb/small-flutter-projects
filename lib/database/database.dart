@@ -1,7 +1,7 @@
 // ignore_for_file: avoid_print
 
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:small_projects/models/todo_database.dart';
+import 'models/todo_database.dart';
 
 Future<void> main() async {
   

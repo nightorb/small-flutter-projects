@@ -6,7 +6,7 @@ import '../custom_widgets/interaction_button.dart';
 
 class HomeScreen extends StatefulWidget {
 
-  HomeScreen({super.key});
+  const HomeScreen({super.key});
 
   @override
   State<HomeScreen> createState() => _HomeScreenState();
